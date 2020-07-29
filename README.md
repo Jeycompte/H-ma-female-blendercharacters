@@ -7,3 +7,5 @@ A 3D female medieval characters.
 ### Includes:
 -	Texures.
 -	Rigging.
+
+<img src="Preview.jpg">
