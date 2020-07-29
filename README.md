@@ -2,8 +2,8 @@
 
 A 3D female medieval characters.
 
-##Blender3D file (.blend)
+## Blender3D file (.blend)
 
-###Includes:
+### Includes:
 -	Texures.
 -	Rigging.
